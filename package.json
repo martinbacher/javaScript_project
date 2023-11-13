@@ -1,0 +1,23 @@
+{
+  "name": "javascript_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.cjs",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Martin Bacher",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "live-server": "^1.1.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "typescript": "^4.9.5"
+  },
+  "keywords": []
+}
